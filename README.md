@@ -37,3 +37,6 @@ IP: 123.12.123.93  Http: 54321  Socks: 12345
 IP: 123.12.123.92  Http: 54321  Socks: 12345
 IP: 123.12.123.91  Http: 54321  Socks: 12345
 IP: 123.12.123.90  Http: 54321  Socks: 12345
+```
+
+[Special Proxy-Bonanza Offers!](https://proxybonanza.com/en/special_offers?aff_id=780)
