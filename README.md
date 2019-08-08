@@ -1,5 +1,5 @@
 # proxy_bonanza
-Proxy Bonanza API Wrapper  [Special-Offers!](https://proxybonanza.com/en/special_offers?aff_id=780)
+Proxy Bonanza API Client  [Special-Offers!](https://proxybonanza.com/en/special_offers?aff_id=780)
 
 ```go
 func main() {
